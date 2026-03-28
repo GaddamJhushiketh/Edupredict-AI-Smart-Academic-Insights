@@ -1,0 +1,4 @@
+cd Project_files
+pip install -r Requirements.txt
+python init_db.py
+streamlit run app.py
